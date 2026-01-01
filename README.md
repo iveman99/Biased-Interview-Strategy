@@ -9,8 +9,6 @@ A company interviews **7 candidates** sequentially in a fixed order:
 
 A, B, C, D, E, F, G
 
-yaml
-Copy code
 
 Each candidate has a unique hidden ability score from **1 (worst) to 7 (best)**.
 After each interview, the hiring manager only learns the **relative ranking**
